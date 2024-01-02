@@ -4,7 +4,7 @@
 ----|---- | ----
 | ![avatar](https://github.com/ayakuma309/ayakuma309/assets/113405777/ca426da0-1290-4384-8951-bfd8ac45bfee)|![gacha](https://github.com/ayakuma309/ayakuma309/assets/113405777/5214587e-d533-4a81-bd60-cbf598a4aa8b) |![kanji](https://github.com/ayakuma309/ayakuma309/assets/113405777/2a68454c-0a60-48b7-bd32-889104c0a640)
 |<img src="https://skillicons.dev/icons?i=js,react,vercel" width="75px" />|<img src="https://skillicons.dev/icons?i=ts,react,firebase" width="75px" />|<img src="https://skillicons.dev/icons?i=js,nextjs,vercel" width="75px" />|
-|🧸Reactで作成しました|🎰Reactで作成しました|😎Next.jsの練習で作成しました.動的OGPが苦労しました
+|🧸Reactで作成しました|🎰Reactで作成しました|😎Next.jsの練習で作成しました.動的OGPが苦労しました([コード](https://github.com/ayakuma309/feeling-kanji))
 
 | [My Jukebox ](https://my-jukebox.vercel.app/)|[Movie Wizard](https://movie-wizard.vercel.app/)|[Game Lottery](https://game-lottery-one.vercel.app/ )
 ----|---- | ----
@@ -22,7 +22,7 @@
 ----|---- | ----
 | ![masked](https://github.com/ayakuma309/ayakuma309/assets/113405777/d13aac3a-d20f-41eb-b9ba-e367077fc272)|![hero](https://github.com/ayakuma309/ayakuma309/assets/113405777/f517d834-ffae-4018-b1cb-c26576bab527)|![icon](https://github.com/ayakuma309/ayakuma309/assets/113405777/59f6cee2-5aa7-4a11-8ec8-673b424295e4)
 |<img src="https://skillicons.dev/icons?i=tailwind,ruby,rails,postgres" width="100px" />|<img src="https://skillicons.dev/icons?i=materialui,tailwind,ts,nextjs,prisma,postgres,vercel" width="175px" />|<img src="https://skillicons.dev/icons?i=tailwind,ts,nextjs,prisma,mysql,planetscale,vercel" width="175px" />|
-|📚Railsを使用しました|🎥Prismaの練習で作成しました|📎Expressのキャッチアップで作成しました。
+|📚Railsを使用しました([コード](https://github.com/ayakuma309/BookBuzz))|🎥Prismaの練習で作成しました|📎Expressのキャッチアップで作成しました。
 
 
 ### その他(簡単なミニアプリ)
