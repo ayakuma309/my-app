@@ -18,7 +18,7 @@
 |<img src="https://skillicons.dev/icons?i=materialui,tailwind,ts,nextjs,firebase,vercel" width="150px" />|<img src="https://skillicons.dev/icons?i=materialui,tailwind,ts,nextjs,firebase,vercel" width="150px" />|<img src="https://skillicons.dev/icons?i=materialui,tailwind,ts,nextjs,firebase,vercel,ruby,rails,postgres" width="225px" />|
 |💃Next.js+Firebaseで作成しました|🎥映画のセリフから新しい映画に出会えるミニアプリです|🎵Next.jsとRailsで作成しました。
 
-| [マスクをした本たち](https://maskedbook.fly.dev/)| [Hero](https://movie-heroes.vercel.app/) |[letters tube](https://letters-tube.vercel.app/)|
+| [マスクをした本たち](https://maskedbook.fly.dev/)| [Hero](https://movie-heroes.vercel.app/) |letters tube|
 ----|---- | ----
 | ![masked](https://github.com/ayakuma309/ayakuma309/assets/113405777/d13aac3a-d20f-41eb-b9ba-e367077fc272)|![hero](https://github.com/ayakuma309/ayakuma309/assets/113405777/f517d834-ffae-4018-b1cb-c26576bab527)|![icon](https://github.com/ayakuma309/ayakuma309/assets/113405777/59f6cee2-5aa7-4a11-8ec8-673b424295e4)
 |<img src="https://skillicons.dev/icons?i=tailwind,ruby,rails,postgres" width="100px" />|<img src="https://skillicons.dev/icons?i=materialui,tailwind,ts,nextjs,prisma,postgres,vercel" width="175px" />|<img src="https://skillicons.dev/icons?i=tailwind,ts,nextjs,prisma,mysql,planetscale,vercel" width="175px" />|
